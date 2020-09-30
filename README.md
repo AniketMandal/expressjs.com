@@ -2,7 +2,7 @@
 
 This is the repository of the website [expressjs.com](https://expressjs.com). It is hosted directly from the repository as a [GitHub Pages](https://pages.github.com/) website.
 
-## Local Setup
+## Local Setup process
 
 To preview the website locally:
 
@@ -57,7 +57,7 @@ app.listen(3000)
 
 The default GitHub Pages syntax highlighting has been disabled in `_config.yml` to allow highlighting with [prism.js](https://prismjs.com/).
 
-## Contributing
+## Contributing:
 
 Feel free to make changes to the template files or the document files. The supporting docs are located in their respective directories, and the API docs are located under the `_includes` directory.
 
